@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ My name is Igor and I'm 19 yo self-taught frontend and backend developer from Poland<br>
+🙋‍♂️ My name is Igor and I'm 20 yo self-taught frontend and backend developer from Poland<br>
 🔭 Free-time project: [Litty - Secure chat platform](https://litty.pl/)<br>🌱 I’m currently learning **Golang** and **Python**<br>💬 Reach me via Discord - [**mespi**](https://discord.com/users/291578492418785291)
 
 
